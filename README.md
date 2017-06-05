@@ -1,2 +1,1 @@
-# 0-ex
-Zero Example Search
+# Zero Example Search
