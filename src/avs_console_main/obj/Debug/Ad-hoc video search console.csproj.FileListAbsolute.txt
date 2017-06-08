@@ -1,0 +1,93 @@
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\Ad-hoc video search console.exe.config
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\Ad-hoc video search console.exe
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\Ad-hoc video search console.pdb
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\Humanizer.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\af\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\ar\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\bg\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\bn-BD\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\cs\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\da\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\de\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\el\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\es\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\fa\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\fi-FI\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\fr\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\fr-BE\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\he\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\hr\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\hu\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\id\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\it\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\ja\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\nb\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\nb-NO\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\nl\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\pl\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\pt\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\ro\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\ru\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\sk\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\sl\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\sr\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\sr-Latn\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\sv\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\tr\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\uk\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\vi\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\zh-CN\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\zh-Hans\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\zh-Hant\Humanizer.resources.dll
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\obj\Debug\Ad-hoc video search console.exe
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\obj\Debug\Ad-hoc video search console.pdb
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\obj\Debug\Ad-hoc video search console.csprojResolveAssemblyReference.cache
+C:\Users\KiD\Documents\Visual Studio 2015\Projects\Ad-hoc video search\Ad-hoc video search console\bin\Debug\lv\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\Ad-hoc video search console.exe.config
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\Ad-hoc video search console.exe
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\Ad-hoc video search console.pdb
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\Humanizer.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\af\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\ar\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\bg\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\bn-BD\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\cs\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\da\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\de\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\el\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\es\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\fa\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\fi-FI\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\fr\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\fr-BE\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\he\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\hr\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\hu\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\id\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\it\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\ja\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\lv\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\nb\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\nb-NO\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\nl\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\pl\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\pt\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\ro\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\ru\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\sk\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\sl\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\sr\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\sr-Latn\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\sv\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\tr\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\uk\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\uz-Latn-UZ\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\vi\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\zh-CN\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\zh-Hans\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\bin\Debug\zh-Hant\Humanizer.resources.dll
+F:\Workstation\0Ex Public Release\src\avs_console_main\obj\Debug\Ad-hoc video search console.exe
+F:\Workstation\0Ex Public Release\src\avs_console_main\obj\Debug\Ad-hoc video search console.pdb

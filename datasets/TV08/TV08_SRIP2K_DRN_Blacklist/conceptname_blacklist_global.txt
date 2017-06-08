@@ -1,0 +1,8 @@
+camera
+side
+background
+filling
+passing
+frame
+area
+object

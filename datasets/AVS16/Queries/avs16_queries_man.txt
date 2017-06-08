@@ -1,0 +1,89 @@
+Query Title: a person playing guitar outdoors
+Definition: NP: person, guitar, outdoor, playing guitar;
+
+Query Title: a man indoors $$looking $$at $$camera where a bookcase is behind him
+Definition: NP: man, bookcase;
+
+Query Title: a person playing drums indoors
+Definition: NP: person, drum, indoor, playing drum;
+
+Query Title: a diver wearing diving suit and swimming under water
+Definition: NP: diver, diving suit, underwater; VB: swimming
+
+Query Title: a person holding a poster on the street at daytime
+Definition: NP: poster, street, daytime, holding poster;
+
+Query Title: the 43rd president George W. Bush sitting down talking with people indoors
+Definition: NP: president, George W. Bush, people, indoor, sitting down; VB: talking
+
+Query Title: a choir or orchestra and conductor performing on stage
+Definition: NP: choir, orchestra, conductor, stage; VB: performing
+
+Query Title: one or more people walking or bicycling on a bridge during daytime
+Definition: NP: bridge, daytime; VB: walking, bicycling
+
+Query Title: a crowd demonstrating in a city street at night
+Definition: NP: crowd, city street, street, night; VB: demonstrating
+
+Query Title: a sewing machine
+Definition: NP: sewing machine;
+
+Query Title: destroyed buildings ruins
+Definition: NP: destroyed building, ruin;
+
+Query Title: palm trees
+Definition: NP: palm tree;
+
+Query Title: military personnel interacting with protesters
+Definition: NP: military personnel, protester; VB: interacting
+
+Query Title: soldiers performing training or other military maneuvers
+Definition: NP: soldier, military maneuver, military training; VB: training
+
+Query Title: a person jumping
+Definition: NP: person; VB: jumping
+
+Query Title: a man shake hands with a woman
+Definition: NP: man, woman, shake hand;
+
+Query Title: a policeman where a police car is visible
+Definition: NP: policeman, police car;
+
+Query Title: one or more people at train station platform
+Definition: NP: train station, platform, people;
+
+Query Title: two or more men at a beach scene
+Definition: NP: people, beach;
+
+Query Title: any type of fountains outdoors
+Definition: NP: fountain, outdoor;
+
+Query Title: a man with beard talking or singing into a microphone
+Definition: NP: man, beard, microphone; VB: singing, talking
+
+Query Title: a person sitting down with a laptop visible
+Definition: NP: person, laptop, sitting down;
+
+Query Title: one or more people opening a door and exiting through it
+Definition: NP: door, opening door; VB: exiting
+
+Query Title: a man with beard and wearing white robe speaking and gesturing $$to $$camera
+Definition: NP: man, beard, white robe; VB: gesturing, speaking
+
+Query Title: a person holding a knife
+Definition: NP: person, knife; VB: holding
+
+Query Title: a woman female wearing glasses
+Definition: NP: woman, female, glass;
+
+Query Title: a person drinking from a cup mug bottle or other container
+Definition: NP: cup, mug, bottle, container; VB: drinking
+
+Query Title: a person wearing a helmet
+Definition: NP: person, helmet;
+
+Query Title: a person lightening a candle
+Definition: NP: candle; VB: lightening
+
+Query Title: people shopping
+Definition: NP: people, shop, shopping mall; VB: shopping

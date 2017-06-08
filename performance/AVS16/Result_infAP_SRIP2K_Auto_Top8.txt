@@ -1,0 +1,34 @@
+<EventID>	<EventName>	<infAP>
+1	playing_guitar_outdoor	0.0839632037973386
+2	man_indoor_camera_bookcase	0.0987838511437656
+3	playing_drum_indoor	0.150537355956209
+4	diver_wearing_diving_suit_swimming_water	0.00155727041791391
+5	holding_poster_street_daytime	0.0165050792129196
+6	43rd_president_george_w._bush_sitting_talking_person_indoor	0.00854205950216421
+7	choir_orchestra_conductor_performing_stage	0.0149064610476744
+8	person_walking_bicycling_bridge_daytime	0.0455325997126923
+9	crowd_demonstrating_city_street_night	0.0703445213251137
+10	sewing_machine	0.13884226595228
+11	destroyed_building_ruin	0.0254661424062471
+12	palm_tree	0.0141487416743544
+13	military_personnel_interacting_protester	0.0113866273820815
+14	soldier_performing_training_military_maneuver	0.23425458878014
+15	jumping	0.0175422066172926
+16	man_shake_hand_woman	0.000606131254268913
+17	policeman_polouse_car_visible	0.00987370596196195
+18	person_train_station_platform	0.265195896285729
+19	man_beach_scene	0.0595172539489834
+20	type_fountain_outdoor	0.272536160993408
+21	man_beard_talking_singing_microphone	0.0629055770911485
+22	sitting_laptop_visible	0.112400383284202
+23	person_opening_door_exiting	0.0499919644631685
+24	man_beard_wearing_white_robe_speaking_gesturing_camera	0.00597528900524876
+25	holding_knife	0.0355051571808458
+26	woman_female_wearing_glass	0.00921226432096024
+27	drinking_cup_mug_bottle_container	0.000930425898608466
+28	wearing_helmet	0.0441101888922679
+29	lightening_candle	0.00720929444508257
+30	person_shopping	0.00706990621655581
+
+====================================
+MinfAP =	0.0625117524723542

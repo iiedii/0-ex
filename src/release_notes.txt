@@ -1,0 +1,20 @@
+*** Latest first ***
+
+
+Version 1.1.0 for 0-Ex Video Search Release
+===========================================
++ Minor tuning.
++ Support both AVS and MED search and evaluations by a simple switch.
+
+
+Version 1.0.0 for MMM'17 Video Browser Showdown
+===============================================
++ Add "force non-stop word" support.
++ A user can override automatically generated concept weights for human-in-the-loop.
++ Allow a coefficient applied to a few pre-defined concepts.
++ Largely reduce the memory usage and features loading time.
++ Add --reloadquery command.
++ Add <CommandFinished> tag in std I/O which can be easily identified by a caller program.
+- Not applicable to dense score tables anymore.
++ Using sparse score tables to speed up the video ranking.
++ Interactive control in console.

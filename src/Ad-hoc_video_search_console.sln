@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ad-hoc video search console", "avs_console_main\Ad-hoc video search console.csproj", "{EF58A984-723B-43AD-9847-A2070872749F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF58A984-723B-43AD-9847-A2070872749F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF58A984-723B-43AD-9847-A2070872749F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF58A984-723B-43AD-9847-A2070872749F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF58A984-723B-43AD-9847-A2070872749F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

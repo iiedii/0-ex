@@ -1,0 +1,143 @@
+Query Title: a person opening a door
+Definition: NP: ;
+
+Query Title: three or fewer people sitting at a table
+Definition: NP: ;
+
+Query Title: one or more people with one or more horses
+Definition: NP: ;
+
+Query Title: a road taken from a moving vehicle looking to the side
+Definition: NP: ;
+
+Query Title: a bridge
+Definition: NP: ;
+
+Query Title: one or more people with mostly trees and plants in the background no road or building can be seen
+Definition: NP: ;
+
+Query Title: a person face filling more than half of the frame area
+Definition: NP: ;
+
+Query Title: one or more pieces of paper each with writing typing or printing it filling more than half of the frame area
+Definition: NP: ;
+
+Query Title: one or more people where a body of water can be seen
+Definition: NP: ;
+
+Query Title: one or more vehicles passing the camera
+Definition: NP: ;
+
+Query Title: a map
+Definition: NP: ;
+
+Query Title: one or more people each walking into a building
+Definition: NP: ;
+
+Query Title: one or more black and white photographs filling more than half of the frame area
+Definition: NP: ;
+
+Query Title: a vehicle moving away from the camera
+Definition: NP: ;
+
+Query Title: a person on the street talking to the camera
+Definition: NP: ;
+
+Query Title: waves breaking onto rocks
+Definition: NP: ;
+
+Query Title: a woman talking to the camera in an interview located indoors no other people visible
+Definition: NP: ;
+
+Query Title: a person pushing a child in a stroller or baby carriage
+Definition: NP: ;
+
+Query Title: one or more people standing walking or playing with one or more children
+Definition: NP: ;
+
+Query Title: one or more people with one or more books
+Definition: NP: ;
+
+Query Title: food or drinks on a table
+Definition: NP: ;
+
+Query Title: one or more people each in the process of sitting down in a chair
+Definition: NP: ;
+
+Query Title: one or more people each looking into a microscope
+Definition: NP: ;
+
+Query Title: a vehicle approaching the camera
+Definition: NP: ;
+
+Query Title: a person watching a television screen no keyboard visible
+Definition: NP: ;
+
+Query Title: one or more people in a kitchen
+Definition: NP: ;
+
+Query Title: one or more people with one or more animals
+Definition: NP: ;
+
+Query Title: a crowd of people outdoors filling more than half of the frame area
+Definition: NP: ;
+
+Query Title: a classroom scene
+Definition: NP: ;
+
+Query Title: an airplane exterior
+Definition: NP: ;
+
+Query Title: a person talking on a telephone
+Definition: NP: ;
+
+Query Title: one or more people each riding a bicycle
+Definition: NP: ;
+
+Query Title: one or more people each walking up one or more steps
+Definition: NP: ;
+
+Query Title: a person talking behind a microphone
+Definition: NP: ;
+
+Query Title: just one person getting out of or getting into a vehicle
+Definition: NP: ;
+
+Query Title: one or more people singing or playing a musical instrument
+Definition: NP: ;
+
+Query Title: a plant that is the main object inside the frame area
+Definition: NP: ;
+
+Query Title: one or more people sitting outdoors
+Definition: NP: ;
+
+Query Title: a street scene at night
+Definition: NP: ;
+
+Query Title: one or more animals no people visible
+Definition: NP: ;
+
+Query Title: one or more people at a table or desk with a computer visible
+Definition: NP: ;
+
+Query Title: one or more people in white lab coats
+Definition: NP: ;
+
+Query Title: one or more ships or boats in the water
+Definition: NP: ;
+
+Query Title: one or more colored photographs filling more than half of the frame area
+Definition: NP: ;
+
+Query Title: a man talking to the camera in an interview located indoors no other people visible
+Definition: NP: ;
+
+Query Title: more than 3 people sitting at a table
+Definition: NP: ;
+
+Query Title: zooming in on a person face
+Definition: NP: ;
+
+Query Title: signs with lettering
+Definition: NP: ;

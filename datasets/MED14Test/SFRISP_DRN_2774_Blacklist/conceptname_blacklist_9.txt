@@ -1,0 +1,13 @@
+Ground_Vehicles
+vehicle
+amphibian, amphibious vehicle
+all terrain vehicle
+recreational vehicle, RV, R.V.
+tank, army tank, armored combat vehicle, armoured combat vehicle
+Construction_Vehicles
+Emergency_Vehicles
+Armored_Vehicles
+Crane_Vehicle
+Exiting_A_Vehicle
+Military_Vehicle
+Rescue_Vehicle

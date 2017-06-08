@@ -1,0 +1,159 @@
+Query Title: bike trick
+Definition: NP: unicycles, two wheels, bike, motorized bike, bicycle, motorcycle, trick;
+Explication: NP: air, trick, river, people or vehicles, g, e, something, bike jump, ground, landing, jump, bikes, person, seat, handlebars, hands, tricks, difficult ways, bike, one wheel, feet, intentional motions, obstacles;VB: are, ridden, sitting, holding, steering, consist, riding, steering, standing, made, are, slowing, stopping, propelling, steering, moves, steering, steering, are, considered, is, set, is, jumping, jumping, does, be, considered
+Evidential Description: scene: NP: street, parking lot;
+ objects/people: NP: bike, bike, ramps;VB: riding, helmet
+ activities: NP: one wheel standing, bike;VB: riding
+ audio: NP: trick audience, bike surface, sounds;VB: hitting, cheering
+
+Query Title: Cleaning an appliance
+Definition: NP: appliance;VB: clean
+Explication: NP: refrigerator, shelves, drawers, example, better access, parts, appliance cleaning, unwanted old food items, refrigerator or freezer, cleaning, water, appliance and scrubbing, product, kind, appliance, event, topic, items, appliances, electric toothbrushes, hair dryers, household appliances, machines, household functions, cooking, home, major household appliances, large appliances, metallic black white beige stainless steel, color, air conditioners dishwashers, clothes dryers, cabinet freezer refrigerator kitchen stove water heater, machine trash compactor microwave ovens, induction cookers, non major household appliances, small appliances, task, coffee makers, toasters, mixers, openers, small devices, hand, hand mixers;VB: are, are, used, cleaning, cooling, are, are, include, drying, washing, are, perform, include, stand, are, held, moved, operating, are, considered, cleaning, is, cleaning, involves, applying, cleansing, rinsing, involve, removing, involve, removing, disassembling, clean, get, clean, be, removed, washed
+Evidential Description: scene: NP: kitchen, shop;
+ objects/people: NP: cloths, sponge, paper, towels, appliance, refrigerator, stove, dishwasher, microwave, food, food containers, spray bottle;
+ activities: NP: cleaning fluid, dishwasher cleaning cycle, trash bags, appliance, food, food containers, containers, food racks, microwave plate, food;VB: putting, spraying, wiping, scrubbing
+ audio: NP: dishwasher, noises, cleaning fluid;VB: spraying, scrubbing, made, activated, squeaking
+
+Query Title: Dog show
+Definition: NP: dogs, competitive exhibition;
+Explication: NP: trial, fence, small group, sheep, herd, control, fences, tunnels and jump, obstacles, row, example, obstacle course, agility trials, spot, commands, response, actions, ability, obedience trials, gum color, teeth, mouth, legs, ears, coat, dogs appearance, gesture, movements, judge, synchrony, run, handler and dog, behavior, dog show, competitive exhibition, pure dogs, person, handler, dog, certain actions, judges, winner, group, dogs, three basic types, shows, appearance, confirmation dog, world, focus, obedience, obedience trials, skills, agility concentrate, agility trials, sheepdog trials, american kennel club akc, standards, breed, appearance and attitude, type, multiple short competitions, larger show, tournament style, winners, smaller category, chihuahua, specific breed, competition, larger category, toy group, multiple toy breeds, chihuahua, obedience agility, handlers, particular competition, ring, same time, leashes;VB: is, bred, known, leads, commands, perform, determine, designated, are, shows, focus, show, shows, shows, shows, sponsored, conform, set, show, are, organized, advance, contains, based, shows, competing, are, competing, stay, use, guide, walk, stand, command, inspects, touch, lift, lift, open, look, focus, perform, given, fetching, sitting, running, defined, focus, navigate, requiring, weave, run, focus, move, according, given, are, enclosed, begins, is, opened, let
+Evidential Description: scene: NP: grassy fairground, convention center, exhibition hall;
+ objects/people: NP: dog water bowls, dog fences, brushes, combs, dog tables dog, frisbee, prize ribbons, arm leash, number, name tags, dogs tents;VB: jumps, grooming, bowls
+ activities: NP: dog water, brushing dog, prize ribbon, frisbee, dog, leash, dogs feet, dogs;VB: pointing, throwing, combing, retrieve
+ audio: NP: winners, directions, general conversations judge, people, events audience, loudspeaker announcements emcee narration, dogs;VB: barking, clapping, announcing
+
+Query Title: Giving directions to a location
+Definition: NP: particular location, gestures, phone, person, directions;VB: explaining
+Explication: NP: real time, step, directions step, destination, line, phone people, head, right, arm, example, gesture, subway train bus routes people, highways, city blocks, subway train or bus, map or guidebook, new city or country, event, gps, map printout, other s, navigator, one person, person, phone, information service or someone, store, street, strangers, new restaurant, friend, g, e, location, conversation, topic, normal conversation, part, response, directions, people;VB: give, being, asked, give, being, asked, is, telling, get, opened, be, eating, ask, see, call, know, ask, giving, getting, be, traveling, is, serving, follow, happens, getting, is, driving, giving, is, reading, giving, is, giving, be, are, visiting, have, reference, asking, depending, asking, are, be, walking, driving, taking, given, reference, giving, pointing, turning, explain, go, be, done, giving, giving, stay, are, helping, reach, giving
+Evidential Description: scene:
+ objects/people: NP: portable telephone, pedestrian, car passenger, guidebook, map, driver, car bicycle subway train bus;
+ activities: NP: direction, map, location, arm, directions, gestures;VB: indicating, pointing
+ audio: NP: directions, narration;
+
+Query Title: Marriage proposal
+Definition: NP: one person;VB: marry
+Explication: NP: other expression, surprise, head, other affirmation, proposal speech, time, wife, honor, wife husband, variants, form, question, phrasing, feelings, states, small speech, alphabet shaped cookies, note, plane, sky, g, e, written form, someone, request, engagement ring, ring, favorite restaurant, dinner, one knee, man proposals, same sex, woman, man, most cases, proposal, person, one person, event;VB: is, asks, agree, marry, accepts, are, considered, be, engaged, proposing, is, accepting, is, be, ask, vary, involve, proposing, kneeling, holding, known, are, asking, is, spoken, proposing, be, spoken, presented, written, written, spelled, proposing, give, are, proposing, marry, is, used, spoken, spoken, include, be, do, becoming, asking, being, asked, be, reject, saying, have, think, accept, are, crying, accept, saying, nodding, hugging, kissing, asked, is, gasp, be, made, being, proposed, realize, is, occurring
+Evidential Description: scene:
+ objects/people: NP: ring;
+ activities: NP: finger, ring, kissing, one knee;VB: holding, crying, hugging
+ audio: NP: music, proposal speech;VB: kissing, crying, cheering, clapping
+
+Query Title: Renovating home
+Definition: NP: structure, home;VB: rebuilding, destroying
+Explication: NP: drywall, electric saw blade, g, air, dust or debris, large amount, tasks, masks gloves, safety glasses, g hard hats, e, protective gear, participants, tools, number, exterior side, railing, floor, new rooms, order, home, side, roof structure, walls floor, new structure, windows, insulation material, wall coverings, flooring material roofing, sinks, kitchen or bathroom, cabinetry, door, door frame, part, room, wall, walls, licensed contractor, structures, alterations, project, scale, people, area, home structure, parts;VB: include, altering, installing, destroying, improving, be, done, depending, involves, require, include, knocking, connect, adding, divide, adding, opening, knocking, installing, adding, replacing, replacing, adding, altering, adding, replacing, adding, create, adding, create, is, done, specialized, wear, face, is, fly, sawing, removing
+Evidential Description: scene: NP: roof, outdoors, home basement garage;
+ objects/people: NP: hard hat, shovels, mask gloves, saws, drywall, repair person, ladders, metal sheets, wood, cement, construction materials, hammer, wrench, drill, screwdriver;VB: paint
+ activities: NP: debris, ladder painting, nail drilling;VB: hammering, climbing
+ audio: NP: ground various construction sounds, lumber, process sounds, narration, saws;VB: hammering, buzzing, falling
+
+Query Title: Rock climbing
+Definition: NP: artificial rock walls, rock formations;VB: climb
+Explication: NP: goal destination, next hand or foothold, foot, one hand, footholds, hand, side, position, time, climber, portions, climbers, rock, ropes, harnesses, leg strength climbers, arm, hands and feet, surface, grip, artificial rock, rock formation, endpoint, goal, activity, rock climbing;VB: is, is, reach, defined, finding, using, pulling, using, wear, connected, catch, fall, allow, climb, move, climbs, climbs, climbs, proceed, s, is, spent, holding, be, searching, propel
+Evidential Description: scene: NP: wall, outdoors, rock;VB: climbing, climbing
+ objects/people: NP: artificial rock wall climbers, rock formation, rope helmet, carabiners;
+ activities: NP: rock, arms legs, hands, rock outcroppings, rock, hands and feet, rope;VB: hooking, grabbing
+ audio: NP: hands feet, climb onlookers, difficulty, comments, climbers, carabiners;VB: clinking, making, cheering, directing, put
+
+Query Title: Town hall meeting
+Definition: NP: discussion, opinions, community, meeting;VB: attend
+Explication: NP: town hall meeting, monologue, official, arguments, speakers, audience, controversial subjects, strong opinions, town hall meeting attendees, controversial issues, opportunity, attendees, schedule, politician, regular part, particular controversial issue, hall meetings, official s town, direct comments, moderator, microphone, crowd, individual speakers, speech, national level, village, level, officials, constituents town hall meetings, politicians, way, policy, other direct effect, voting, event, controversial issue, later time portions, machine ballot, contentious issues postponement, issue, vote, policy issue, discussion, town meetings, policy and budget, issues, town community, rural new england, small american communities, government, system, town hall meetings;VB: are, used, legislates, involve, are, followed, is, being, discussed, be, be, considered, do, involve, serve, interact, be, held, give, respond, line, are, chosen, be, allowed, make, be, called, help, address, be, made, s, be, used, address, are, react, is, being, said, speaking, get, provide
+Evidential Description: scene: NP: arena, church fellowship hall, stage, auditorium;
+ objects/people: NP: elevated stage, community, paper handouts flyers, chairs, politicians members, protesters, podiums, political signs, microphone;VB: stands
+ activities: NP: speech, seats, questions, people, signs;VB: arguing, waving, shouting, pointing, yelling
+ audio: NP: attendees, audience microphones whispers, boos questions, political speech crowd reaction arguments;VB: coming
+
+Query Title: Winning a race without a vehicle
+Definition: NP: destination;VB: succeeds, reaching
+Explication: NP: trophy, medal, prize, air onlookers, arms, celebration, gestures, name, announcer, e, verbal acknowledgement, length, final racing destination, same location, track case, additional evidence, times, track, track race, g, same distance, distance, destination point, person, evidence, full set, full competition, finish line, tape, piece, winner, other many races, straight line parallel, lanes, professional style races, country, long distance races, most types, many spectators, number, shirts, armbands or stickers, professional style competitions, racing competitions, racer, certain point, racers, team, members, race distance, relay races, side, most race types competitors, object, obstacles, race, kind, way, competitors, swimming, human locomotion, races, different types, vehicle or animal, assistance, person s, destination, type, event, purposes, only type, other competitors, less time, task;VB: racing, involves, accomplishing, racing, considered, is, is, traveling, completed, involve, running, jumping, crawling, be, handicapped, have, perform, jumping, running, holding, are, lined, begin, is, divided, reach, switch, continue, be, wear, assigned, be, racing, excluding, cross, running, have, designated, keep, end, running, stretched, is, winning, be, seeing, reaching, traveled, is, are, spread, is, traveled, is, circled, set, be, winning, reaching, reaching, be, reaching, won, is, reached, counts, has, been, traveled, winning, include, running, saying, wins, throwing, rushing, congratulate, receiving
+Evidential Description: scene: NP: gymnasium, indoor track, pool, stadium, track road;
+ objects/people: NP: first aid tent, runner, water bottles, signs signs, baton, spectators, running shoes, road, potato sacks, finish line, tape, runner, runner number;VB: lying, encouraging
+ activities: NP: runners, water bottles, runner, baton spectators, tape, swimming;VB: running, hopping, jumping, passing, running, passing
+ audio: NP: microphone, gun shooting narration, race, indication, onlookers;VB: cheering, starting, yelling, go, speaking
+
+Query Title: metal crafts
+Definition: NP: metal;
+Explication: NP: hole, g screw, e, material, wire or piece, holes, thin pieces, bright yellow white color, orange, color, degree, pieces, welding machine welding, soldering iron, heat, hot fire, molding, event metal, large machine, factory style, factory, objects, iron fences, jewelry, functional object, metal, metal crafts project;VB: working, involves, manipulating, create, wrought, made, operating, do, count, be, manipulated, bending, heating, be, done, placing, designated, targeted, involves, joining, heating, are, joining, is, heated, changes, have, punched, drilled, allow, connecting, be, passed
+Evidential Description: scene: NP: workshop;
+ objects/people: NP: riveting machine, awl, caliper, solder, paintbrush, metal mold, drill, polisher, welding machine, rivet punch, nail punch, metal stamps, metal rods, hammer, soldering iron, rivets, metal pieces;VB: rivet
+ activities: NP: metal drilling holes, soldering iron, solder melting metal, metal painting metal, metal rod awl, block mold, metal;VB: hammering, hammering, polishing, bending
+ audio: NP: process, soldering iron flame narration;VB: hammering
+
+Query Title: Beekeeping
+Definition: NP: honeybees; 
+Explication:
+Evidential Description: scene: NP: rooftop, yard;
+ objects/people: NP: protective clothing, smoker, knife, centrifuge, bottles, honey bees beekeepers, beehives honeycombs;
+ activities: NP: honeycomb, honey, protective clothing, smoker, honeycomb, beehive;VB: cutting, extracting
+ audio: NP: pain, process beekeeper, beekeeper, bees;VB: buzzing, narrating, shouting, being, stung
+
+Query Title: Wedding shower
+Definition: NP: family, wedding;VB: celebrates, dancing
+Explication:
+Evidential Description: scene: NP: backyard, restaurant, house;
+ objects/people: NP: food, party, chairs, tables, gifts, balloons;
+ activities: NP: games, gifts;VB: dancing, playing
+ audio: VB: clapping
+
+Query Title: Non-motorized vehicle repair
+Definition: NP: non motorized vehicle, repairs;
+Explication:
+Evidential Description: scene: NP: workshop garage or driveway;
+ objects/people: NP: grease cloths, chains, tires, wrenches, vehicle, bicycle, unicycle, tricycle, carriage, pedi;
+ activities: NP: tools, vehicle, parts;VB: repairing, adjusting
+ audio: NP: vehicle, repair process, tools narration, sound;VB: sounds, emanating
+
+Query Title: Fixing musical instrument
+Definition: NP: musical instrument, part, repairs;
+Explication:
+Evidential Description: scene: NP: store shop;
+ objects/people: NP: lamp, nuts, rubber bands, tape, repair person, soldering iron, screws, musical instruments, tools;
+ activities: NP: rubber band, soldering, playing music, nut, screw, instrument;VB: tightening, attaching, taping, affixing
+ audio: NP: instrument tool, repair music, person;VB: narrating, sounds
+
+Query Title: Horse riding competition
+Definition: NP: horse, competition;VB: riding
+Explication:
+Evidential Description: scene: NP: arena, rodeo field, race track;
+ objects/people: NP: herd, cowboy hat, cattle, horse whip, hurdles, gloves, barrels ropes, saddles, stirrups, reins, horses riders;VB: bridles, riding, herded
+ activities: NP: obstacles, whipping horse, hurdles, barrels, reins, horse;VB: riding
+ audio: NP: announcer, crowd, jump horse, horse landing, horse;VB: calling, neighing, running, cheering, narrating
+
+Query Title: Felling a tree
+Definition: NP: tree;VB: fell
+Explication:
+Evidential Description: scene: NP: trees;
+ objects/people: NP: tree felling machines, metal wedges, chain saws, axes, hand saws;
+ activities: NP: tree felling machine;VB: sawing, chopping
+ audio: NP: tree, chainsaw motor sounds;VB: chopping, sawing, falling
+
+Query Title: Parking a vehicle
+Definition: NP: vehicle;VB: navigate
+Explication:
+Evidential Description: scene: NP: parking lot, dock, anchor mooring, outdoors, street parking, parking garage, aircraft hanger, home garage;
+ objects/people: NP: towbar tractor tug, signs, valets, ropes, pilots drivers, keys, boats, planes, motorcycles, helicopters, bicycles, cars, vehicles;
+ activities: NP: vehicle alarm vehicle, vehicle, vehicle door;VB: turning
+ audio: NP: vehicle alarm, doors;VB: accelerating, braking, closing, activating
+
+Query Title: Playing fetch
+Definition: NP: animal, dog;VB: retrieved
+Explication:
+Evidential Description: scene: NP: field park yard, room basement den;
+ objects/people: NP: toys, leashes, frisbee, balls, sticks;
+ activities: NP: animal, thrower congratulating animal, thrower, object, animal animal, ball, frisbee;
+ audio: NP: congratulating, noise, object animal, animal, thrower;VB: asking, retrieve, making, barking, meowing
+
+Query Title: Tailgating
+Definition: NP: concert or sports, parking area, party, group;
+Explication:
+Evidential Description: scene: NP: parking lot, auditorium, arena;
+ objects/people: NP: portable shelter, cups, sports equipment, ball, helmet, bat, team uniform, mitts, utensils, plates, napkins, cooking utensils, food beverages, grills, cars;VB: eating
+ activities: NP: cheers, beverages, food, cooking food;VB: eating, drinking
+ audio: NP: stadium announcer, cooking narration, background music, grill;VB: sizzling
+
+Query Title: Tuning a musical instrument
+Definition: NP: musical instrument;VB: tune
+Explication:
+Evidential Description: scene: NP: concert, stage, park, sidewalk, venue, store, stage, concert;
+ objects/people: NP: electronic tuner, piano wrench, fork, saxophone, guitar, piano, drums, musical instruments, trumpet;
+ activities: NP: musical instrument;
+ audio: NP: instructions, audience musician, instrument musician, crowd reaction playing;VB: talking, narrating

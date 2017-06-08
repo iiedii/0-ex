@@ -1,0 +1,89 @@
+Query Title: a person playing guitar outdoors
+Definition: NP: ;
+
+Query Title: a man indoors looking at camera where a bookcase is behind him
+Definition: NP: ;
+
+Query Title: a person playing drums indoors
+Definition: NP: ;
+
+Query Title: a diver wearing diving suit and swimming under water
+Definition: NP: ;
+
+Query Title: a person holding a poster on the street at daytime
+Definition: NP: ;
+
+Query Title: the 43rd president George W. Bush sitting down talking with people indoors
+Definition: NP: ;
+
+Query Title: a choir or orchestra and conductor performing on stage
+Definition: NP: ;
+
+Query Title: one or more people walking or bicycling on a bridge during daytime
+Definition: NP: ;
+
+Query Title: a crowd demonstrating in a city street at night
+Definition: NP: ;
+
+Query Title: a sewing machine
+Definition: NP: ;
+
+Query Title: destroyed buildings ruins
+Definition: NP: ;
+
+Query Title: palm trees
+Definition: NP: ;
+
+Query Title: military personnel interacting with protesters
+Definition: NP: ;
+
+Query Title: soldiers performing training or other military maneuvers
+Definition: NP: ;
+
+Query Title: a person jumping
+Definition: NP: ;
+
+Query Title: a man shake hands with a woman
+Definition: NP: ;
+
+Query Title: a policeman where a police car is visible
+Definition: NP: ;
+
+Query Title: one or more people at train station platform
+Definition: NP: ;
+
+Query Title: two or more men at a beach scene
+Definition: NP: ;
+
+Query Title: any type of fountains outdoors
+Definition: NP: ;
+
+Query Title: a man with beard talking or singing into a microphone
+Definition: NP: ;
+
+Query Title: a person sitting down with a laptop visible
+Definition: NP: ;
+
+Query Title: one or more people opening a door and exiting through it
+Definition: NP: ;
+
+Query Title: a man with beard and wearing white robe speaking and gesturing to camera
+Definition: NP: ;
+
+Query Title: a person holding a knife
+Definition: NP: ;
+
+Query Title: a woman female wearing glasses
+Definition: NP: ;
+
+Query Title: a person drinking from a cup mug bottle or other container
+Definition: NP: ;
+
+Query Title: a person wearing a helmet
+Definition: NP: ;
+
+Query Title: a person lightening a candle
+Definition: NP: ;
+
+Query Title: people shopping
+Definition: NP: ;

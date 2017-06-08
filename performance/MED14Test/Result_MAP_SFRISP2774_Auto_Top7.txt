@@ -1,0 +1,24 @@
+<EventID>	<EventName>	<AP>
+1	attempting_bike_trick	0.111613936564698
+2	cleaning_appliance	0.0457009166558958
+3	dog_show	0.0624590435932369
+4	giving_direction_location	0.0160999886108667
+5	marriage_proposal	0.0139303210564763
+6	renovating_home	0.00395495448534699
+7	rock_climbing	0.172535231328416
+8	town_hall_meeting	0.16541618043076
+9	winning_race_vehicle	0.0340465877598235
+10	working_metal_craft_project	0.0838905615537457
+11	beekeeping	0.688560101942978
+12	wedding_shower	0.00602142816428784
+13	non-motorized_vehicle_repair	0.0144089990664355
+14	fixing_musical_instrument	0.17638008737172
+15	horse_riding_competition	0.282247636668952
+16	felling_tree	0.0558372464670069
+17	parking_vehicle	0.083151804186883
+18	playing_fetch	0.00526437986142985
+19	tailgating	0.0401128104058504
+20	tuning_musical_instrument	0.141892139392576
+
+====================================
+MAP =	0.110176217778369
