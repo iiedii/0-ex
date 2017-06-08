@@ -26,14 +26,9 @@ To get started, please follow this **[GUIDE](https://github.com/iiedii/0-ex/blob
  booktitle = {Proceedings of the 2016 ACM on International Conference on Multimedia Retrieval},
  series = {ICMR '16},
  year = {2016},
- isbn = {978-1-4503-4359-6},
  location = {New York, NY, USA},
  pages = {127--134},
  numpages = {8},
- url = {http://doi.acm.org/10.1145/2911996.2912015},
- doi = {10.1145/2911996.2912015},
- publisher = {ACM},
- keywords = {zero-example, concept bank, concept selection, multimedia event detection, semantic pooling, video search},
 }
 ```
 
