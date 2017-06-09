@@ -12,12 +12,22 @@ We highlight the following features:
 
 The package encapsulates three datasets with deep net features and ground truth for benchmark. The datasets are ***(1) IACC.3 for AVS'16***, ***(2) MED14Test***, and ***(3) TV2008 search task***.
 
-To get started, please follow this **[GUIDE](https://github.com/iiedii/0-ex/blob/master/Quick_Start.pdf)**. Have fun!
+To get started, please follow this **[GUIDE](Quick_Start.pdf)**. Have fun!
 
+Performance
+-----------
+
+Both fully automatic and manual runs on TRECVID'16 AVS task benchmark:
+
+[!AVS'16 performance](etc/avs16_performance.png?raw=true "AVS'16 Performance")
+
+Fully automatic run on TRECVID'08 Search task benchmark:
+
+[!Search'08 performance](etc/tv08_performance.png?raw=true "Search'08 Performance")
 
 ---------------------------------------------------------
 
-**If you find this tool helpful, please cite the work:**
+**If you find this tool helpful, please cite the following work:**
 
 ```
 @inproceedings{Lu2016Event,
@@ -28,7 +38,6 @@ To get started, please follow this **[GUIDE](https://github.com/iiedii/0-ex/blob
  year = {2016},
  location = {New York, NY, USA},
  pages = {127--134},
- numpages = {8},
 }
 ```
 
