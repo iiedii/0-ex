@@ -6,5 +6,4 @@
  year = {2016},
  location = {New York, NY, USA},
  pages = {127--134},
- numpages = {8},
 }
