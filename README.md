@@ -14,17 +14,6 @@ The package encapsulates three datasets with deep net features and ground truth 
 
 To get started, please follow this **[GUIDE](Quick_Start.pdf)**. Have fun!
 
-Performance
------------
-
-Both fully automatic and manual runs on TRECVID'16 AVS task benchmark:
-
-![AVS'16 performance](etc/avs16_scores.png?raw=true)
-
-Fully automatic and manual runs on MED'14 dataset and fully automatic run on TRECVID'08 Search task benchmarks:
-
-![MED'14 and Search'08 performance](etc/med14_tv08_scores.png?raw=true)
-
 ---------------------------------------------------------
 
 **If you find this tool helpful, please cite the following work:**
@@ -42,3 +31,14 @@ Fully automatic and manual runs on MED'14 dataset and fully automatic run on TRE
 ```
 
 ---------------------------------------------------------
+
+Performance
+-----------
+
+Both fully automatic and manual runs on TRECVID'16 AVS task benchmark:
+
+![AVS'16 performance](etc/avs16_scores.png?raw=true)
+
+Fully automatic and manual runs on MED'14 dataset and fully automatic run on TRECVID'08 Search task benchmarks:
+
+![MED'14 and Search'08 performance](etc/med14_tv08_scores.png?raw=true)
