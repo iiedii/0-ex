@@ -12,7 +12,7 @@ We highlight the following features:
 
 The package encapsulates three datasets with deep net features and ground truth for benchmarks. The datasets are ***(1) IACC.3 for AVS'16***, ***(2) MED14Test***, and ***(3) TV2008 search task***.
 
-To get started, please follow this **[GUIDE](Quick_Start.pdf)**. Download the release version **[HERE](releases)**. Have fun!
+To get started, please follow this **[GUIDE](Quick_Start.pdf)**. Download the release version **[HERE](/releases/latest)**. Have fun!
 
 ---------------------------------------------------------
 
