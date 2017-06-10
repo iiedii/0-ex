@@ -19,11 +19,11 @@ Performance
 
 Both fully automatic and manual runs on TRECVID'16 AVS task benchmark:
 
-![AVS'16 performance](etc/avs16_performance.png?raw=true "AVS'16 Performance")
+![AVS'16 performance](etc/avs16_scores.png?raw=true)
 
-Fully automatic run on TRECVID'08 Search task benchmark:
+Fully automatic and manual runs on MED'14 task and fully automatic run on TRECVID'08 Search task benchmarks:
 
-![Search'08 performance](etc/tv08_performance.png?raw=true "Search'08 Performance")
+![MED'14 and Search'08 performance](etc/med14_tv08_scores.png?raw=true)
 
 ---------------------------------------------------------
 
