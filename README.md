@@ -7,7 +7,7 @@ We highlight the following features:
 
  - ***[ General-purpose, zero-example search ]***  - Compatible for both simple queries and complex queries (event kits in MED).
  - ***[ High efficiency ]***  - Support 10,000+ visual concepts and can finish a search within seconds on a laptop for a corpus size of around 300,000 videos/keyframes.
- - ***[ Interactive search ]***  - Support human-in-the-loop. Human efforts can be involved in the concept screening which is an intermediate step where a user has a chance to improve the search result while being kept away from directly seeing the result. Alternatively, a user can also perform interactive search by iteratively refining the result.
+ - ***[ Interactive search ]***  - Support human-in-the-loop. Human efforts can be involved in the concept screening which is an intermediate step where a user has a chance to improve the search result while being kept away from directly seeing the result. Alternatively, a user can also perform interactive search by iteratively refining the result after seeing it.
  - ***[ State-of-the-art performance and open source ]***  - Can be used as a standalone tool or embedded as a module with ease.
 
 The package encapsulates three datasets with deep net features and ground truth for benchmarks. The datasets are ***(1) IACC.3 for AVS'16***, ***(2) MED14Test***, and ***(3) TV2008 search task***.
