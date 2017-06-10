@@ -21,7 +21,7 @@ Both fully automatic and manual runs on TRECVID'16 AVS task benchmark:
 
 ![AVS'16 performance](etc/avs16_scores.png?raw=true)
 
-Fully automatic and manual runs on MED'14 task and fully automatic run on TRECVID'08 Search task benchmarks:
+Fully automatic and manual runs on MED'14 dataset and fully automatic run on TRECVID'08 Search task benchmarks:
 
 ![MED'14 and Search'08 performance](etc/med14_tv08_scores.png?raw=true)
 
