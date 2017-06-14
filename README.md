@@ -1,5 +1,5 @@
-Zero-Example Video Search
-=========================
+[![VIREO Logo](etc/vireo_logo.png)](http://vireo.cs.cityu.edu.hk/) Zero-Example Video Search
+============================================================================================
 
 This tool provides an efficient implementation for zero-example video search. It is derived from our successful system for *[NIST TRECVID multimedia event detection (MED'15, '16)](http://www-nlpir.nist.gov/projects/tv2016/tv2016.html#med)*, *[ad-hoc video search (AVS'16)](http://www-nlpir.nist.gov/projects/tv2016/tv2016.html#avs)* and *[MMM video browswer showdown (VBS'17)](http://mmm2017.ru.is/index.php/video-browser-showdown/)*. The tool is capable of both MED and AVS tasks, and also supports interactive search. The implementation has the state-of-the-art performance which can serve as a good baseline. We hope the open source can benefit future research.
 
